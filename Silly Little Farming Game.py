@@ -7,19 +7,19 @@ lane2 = []
 lane3 = []
 lane4 = []
 lane5 = []
-level = 14
+level = 1
 day = 0
 nloop = 0
 dayspassed = 0
 iterator = 0
 limit = 8
 license = 21
-season = "❄️"
+season = "🍃"
 xpearning = 0
 dayearnings = 0
 siter = 0
 sloop = 0
-money = 100
+money = 5
 xp = 0
 def pestsalive(pest):
     if (w2e(pest) not in lane1 and w2e(pest) not in lane2 and w2e(pest) not in lane3 and w2e(pest) not in lane4 and w2e(pest) not in lane5):
